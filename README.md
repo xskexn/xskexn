@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working to become a Machine Learning Engineer<br>🤝 I’m looking for help with furthering my career<br>🌱 I’m currently learning Java, Python, C, and various technologies in data science and machine learning<br>💬 Ask me about: My ongoing journey to become Quant/data scientist<br>⚡ Fun fact: I'm passionate about journaling and I use obsidian a lot<br>🎮 Hobbies: Mostly doing sports and going to the gym<br>📚 Favourite Show: "Bleach" by Tite Kubo<br>🌍 Open to collaborating on: Machine learning projects, financial modelling, and open-source contributions<br>
+I'm trying, my best...
 
 
 ## 🌐 Socials:
